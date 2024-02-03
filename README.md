@@ -6,6 +6,11 @@
 <br>
 <br>
 
+![](dancingbaby.gif)
+
+<br>
+<br>
+
 # Members
 - Robert Geraghty
 - Ethan Hancock
