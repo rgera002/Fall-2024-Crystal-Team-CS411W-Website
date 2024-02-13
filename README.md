@@ -31,6 +31,11 @@ describe the project...
 <br>
 <br>
 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSaeoCPtZjtZ9KiRrefxHxsNMJFQV60elhntqqDzTHL3oQ_2MmSTsSll9bGQTXRbAE26xRX7lCCEf06/embed?start=true&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+<br>
+<br>
+
 # Quick Links
 - [Project Website](https://rgera002.github.io/Spring-2024-Crystal-Team-CS410/)
 - TBD
