@@ -25,6 +25,7 @@ This project is meant to assist end users with selecting the appropriate softwar
 src="https://docs.google.com/presentation/d/e/2PACX-1vSaeoCPtZjtZ9KiRrefxHxsNMJFQV60elhntqqDzTHL3oQ_2MmSTsSll9bGQTXRbAE26xRX7lCCEf06/embed?start=true&loop=true&delayms=3000"
 frameborder="0"
 width="100%"
+height="100%"
 allowfullscreen="true"
 mozallowfullscreen="true"
 webkitallowfullscreen="true">
