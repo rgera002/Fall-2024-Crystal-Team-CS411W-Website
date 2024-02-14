@@ -10,8 +10,8 @@
 ![](RobertGeraghty.jpg)
 *Robert Geraghty*
 
-![](path_to_image)
-*image_caption*
+![](DomHankle.png)
+*Dom Hankle*
 
 ![](path_to_image)
 *image_caption*
