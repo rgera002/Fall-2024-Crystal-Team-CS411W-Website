@@ -7,7 +7,7 @@
 - Adam Adam
 - Abigail Eagan
 
-![](RobertGeraghty.jog)
+![](RobertGeraghty.jpg)
 *Robert Geraghty*
 
 ![](path_to_image)
