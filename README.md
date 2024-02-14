@@ -3,17 +3,12 @@
 - Spring 2024
 - Crystal Team
 
+
 <br>
 <br>
 
-# Members
-- Robert Geraghty
-- Ethan Hancock
-- Sean Allgaier
-- Dom Hankle
-- Drew Rockmore
-- Adam Adam
-- Abigail Eagan
+# Site Navigation Links
+<div class="box2" onclick="team_bio.md"> Team Bio</div>
 
 
 <br>
@@ -38,7 +33,7 @@ webkitallowfullscreen="true">
 <br>
 <br>
 
-# Quick Links
+# Assorted External Links
 - [Project Website](https://rgera002.github.io/Spring-2024-Crystal-Team-CS410/)
 - [Google Slides](https://docs.google.com/presentation/d/1V-B-J1mgXTi4ozUaZv1W4ieMAi7zzdfW2sztKeJuYuo/edit#slide=id.p)
 
