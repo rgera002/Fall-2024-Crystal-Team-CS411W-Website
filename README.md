@@ -8,7 +8,7 @@
 <br>
 
 # Site Navigation Links
-<div class="box2" onclick="team_bio.md"> Team Bio</div>
+[Team Bio](team_bio.md)
 
 
 <br>
