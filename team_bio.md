@@ -7,23 +7,33 @@
 - Adam Adam
 - Abigail Eagan
 
-![](RobertGeraghty.jpg)
-*Robert Geraghty*
+<img src="RobertGeraghty.jpg" style="width: 150px; height: 200px;">
 
-![](DomHankle.png)
-*Dom Hankle*
+{Robert Bio Goes Here}
 
-![](path_to_image)
-*image_caption*
+<img src="DomHankle.png" style="width: 150px; height: 200px;">
 
-![](path_to_image)
-*image_caption*
+Hello, my name is Domenic Hankle and I am a Computer Science student here at ODU expected to graduate in the Fall of 2024.
+I currently work at an internship that specifically focuses on web app development for video surveillance software, but I
+really enjoy learning about graphics programming in OpenGL and the GLSL shading language. Some hobbies of mine include   
+playing soccer and disc golf!
 
-![](path_to_image)
-*image_caption*
+<img src="" style="width: 150px; height: 200px;">
 
-![](path_to_image)
-*image_caption*
+{Bio}
 
-![](path_to_image)
-*image_caption*
+<img src="" style="width: 150px; height: 200px;">
+
+{Bio}
+
+<img src="" style="width: 150px; height: 200px;">
+
+{Bio}
+
+<img src="" style="width: 150px; height: 200px;">
+
+{Bio}
+
+<img src="" style="width: 150px; height: 200px;">
+
+{Bio}
