@@ -15,8 +15,7 @@
 
 Hello, my name is Domenic Hankle and I am a Computer Science student here at ODU expected to graduate in the Fall of 2024.
 I currently work at an internship that specifically focuses on web app development for video surveillance software, but I
-really enjoy learning about graphics programming in OpenGL and the GLSL shading language. Some hobbies of mine include   
-playing soccer and disc golf!
+really enjoy learning about graphics programming in OpenGL and the GLSL shading language. Some hobbies of mine include playing soccer and disc golf!
 
 <img src="" style="width: 150px; height: 200px;">
 
