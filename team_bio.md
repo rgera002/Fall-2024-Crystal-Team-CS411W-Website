@@ -9,7 +9,7 @@
 
 <img src="RobertGeraghty.jpg" style="width: 150px; height: 200px;">
 
-{Robert Bio Goes Here}
+Robert Geraghty is a network engineer in Alaska. He is is currently build and maintaining communications infrastructure in several parts of the state.
 
 <img src="DomHankle.png" style="width: 150px; height: 200px;">
 
