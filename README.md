@@ -1,3 +1,5 @@
+# SoftWhere
+
 # Crystal Team
 - ODU CS 410
 - Spring 2024
@@ -16,7 +18,7 @@
 
 
 # Project
-This project is meant to assist end users with selecting the appropriate software for a particular purpose.
+This project is meant to assist end users with selecting the appropriate software for a particular purpose. The program is tentatively named "Softwhere"
 
 <br>
 <br>
