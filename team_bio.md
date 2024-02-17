@@ -19,22 +19,22 @@ really enjoy learning about graphics programming in OpenGL and the GLSL shading 
 
 <img src="EthanHancock.jpg" style="width: 150px; height: 200px;">
 
+
 Hello! My name is Ethan Hancock, and I am studying Computer Science.
 I am passionate about programming, especially in C++, and have even published my own C++ library!
 I am also very interested in Linux.
 
 <img src="" style="width: 150px; height: 200px;">
 
+{}
+<img src="" style="width: 150px; height: 200px;">
+
 {Bio}
-Hi there, I own my own company and attend Odu full-time to get a degree, so I'm actively involved in both entrepreneurship and academia. In addition to my career and academic goals, I enjoy playing basketball, football, and soccer. My goal in this class is to learn how I aim to address the challenges present in business environments by developing a technology-based project.
+
 <img src="AdamAdam.jpg" style="width: 150px; height: 200px;">
 
-{Bio}
+{}
+Hi there, I own my own company and attend Odu full-time to get a degree, so I'm actively involved in both entrepreneurship and academia. In addition to my career and academic goals, I enjoy playing basketball, football, and soccer. My goal in this class is to learn how I aim to address the challenges present in business environments by developing a technology-based project.
 
-<img src="" style="width: 150px; height: 200px;">
-
-{Bio}
-
-<img src="" style="width: 150px; height: 200px;">
 
 {Bio}
