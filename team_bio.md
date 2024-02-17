@@ -24,7 +24,13 @@ Hello! My name is Ethan Hancock, and I am studying Computer Science.
 I am passionate about programming, especially in C++, and have even published my own C++ library!
 I am also very interested in Linux.
 
-<img src="" style="width: 150px; height: 200px;">
+<img src="DrewRockmore.png" style="width: 150px; height: 200px;">
+
+
+Hi, my name is Drew Rockmore, I am currently a full time student at Old dominion University studying Computer Science. 
+I served the navy for six years as a AEGIS computer networking technician and currently work part time as web developer. 
+I enjoy being outside and exploring everything that Virginia has to offer. 
+
 
 {}
 <img src="" style="width: 150px; height: 200px;">
