@@ -73,7 +73,10 @@ I enjoy being outside and exploring everything that Virginia has to offer.
 
 <img src="Abigail_Eagan.PNG" style="width: 150px;">
 
-{Abigail Bio}
+Hello, my name is Abigail Eagan. I am currently a full time student in my last year at Old Dominion University,
+securing an undergraduate degree in Computer Science. 
+I also work fulltime running and managing a dessert shop! I am interested in desktop app development, and tentatively look
+into creating custom apps to suit my interests and personalize my laptop.
 
 
 <br>
