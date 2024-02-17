@@ -71,7 +71,7 @@ I enjoy being outside and exploring everything that Virginia has to offer.
 <br>
 <br>
 
-<img src="Abigail_Eagan.png" style="width: 150px;">
+<img src="Abigail_Eagan.PNG" style="width: 150px;">
 
 {Abigail Bio}
 
