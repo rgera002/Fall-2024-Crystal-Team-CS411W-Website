@@ -10,14 +10,20 @@
 
 <br>
 <br>
-<img src="RobertGeraghty.jpg" style="width: 150px; height: 200px;">
+<br>
+<br>
+
+<img src="RobertGeraghty.jpg" style="width: 150px;">
 
 Robert Geraghty is a network engineer in Alaska. He is is currently build and maintaining communications infrastructure in several parts of the state.
 
 
 <br>
 <br>
-<img src="DomHankle.png" style="width: 150px; height: 200px;">
+<br>
+<br>
+
+<img src="DomHankle.png" style="width: 150px;">
 
 Hello, my name is Domenic Hankle and I am a Computer Science student here at ODU expected to graduate in the Fall of 2024.
 I currently work at an internship that specifically focuses on web app development for video surveillance software, but I
@@ -26,7 +32,10 @@ really enjoy learning about graphics programming in OpenGL and the GLSL shading 
 
 <br>
 <br>
-<img src="EthanHancock.jpg" style="width: 150px; height: 200px;">
+<br>
+<br>
+
+<img src="EthanHancock.jpg" style="width: 150px;">
 
 
 Hello! My name is Ethan Hancock, and I am studying Computer Science.
@@ -36,7 +45,10 @@ I am also very interested in Linux.
 
 <br>
 <br>
-<img src="DrewRockmore.png" style="width: 150px; height: 200px;">
+<br>
+<br>
+
+<img src="DrewRockmore.png" style="width: 150px;">
 
 
 Hi, my name is Drew Rockmore, I am currently a full time student at Old dominion University studying Computer Science. 
@@ -46,20 +58,35 @@ I enjoy being outside and exploring everything that Virginia has to offer.
 
 <br>
 <br>
-<img src="SeanAllgaier.jpg" style="width: 150px; height: 200px;">
+<br>
+<br>
+
+<img src="SeanAllgaier.jpg" style="width: 150px;">
+
 {Sean Bio}
 
 
 <br>
 <br>
-<img src="Abigail Eagan.png" style="width: 150px; height: 200px;">
+<br>
+<br>
+
+<img src="Abigail Eagan.png" style="width: 150px;">
+
 {Abigail Bio}
 
 
 <br>
 <br>
-<img src="AdamAdam.jpg" style="width: 150px; height: 200px;">
+<br>
+<br>
+
+<img src="AdamAdam.jpg" style="width: 150px;">
+
 Hi there, I own my own company and attend Odu full-time to get a degree, so I'm actively involved in both entrepreneurship and academia. In addition to my career and academic goals, I enjoy playing basketball, football, and soccer. My goal in this class is to learn how I aim to address the challenges present in business environments by developing a technology-based project.
 
 
-{Bio}
+<br>
+<br>
+<br>
+<br>
