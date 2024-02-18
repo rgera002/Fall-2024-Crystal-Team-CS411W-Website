@@ -15,7 +15,7 @@
 
 <img src="RobertGeraghty.jpg" style="width: 150px;">
 
-Robert Geraghty is a network engineer in Alaska, currently a senior in the ODU CS program. He is is currently designing and building communications infrastructure across Alaska.
+Robert Geraghty is a network engineer in Alaska. He is is currently designing and building communications infrastructure primarily in Alaska, while providing consulting services across the US. In his free time, Robert likes to hike and spend time in the outdoors.
 
 
 <br>
