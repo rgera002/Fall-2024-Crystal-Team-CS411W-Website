@@ -38,9 +38,9 @@ really enjoy learning about graphics programming in OpenGL and the GLSL shading 
 <img src="EthanHancock.jpg" style="width: 150px;">
 
 
-Hello! My name is Ethan Hancock, and I am studying Computer Science.
-I am passionate about programming, especially in C++, and have even published my own C++ library!
-I am also very interested in Linux.
+Ethan Hancock a Computer Science student at ODU.
+He is passionate about programming, especially in C++, and has even published his own C++ library!
+He is also very interested in Linux.
 
 
 <br>
