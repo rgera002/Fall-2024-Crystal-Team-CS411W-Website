@@ -25,10 +25,9 @@ Robert Geraghty is a network engineer in Alaska. He is is currently designing an
 
 <img src="DomHankle.png" style="width: 150px;">
 
-Hello, my name is Domenic Hankle and I am a Computer Science student here at ODU expected to graduate in the Fall of 2024.
-I currently work at an internship that specifically focuses on web app development for video surveillance software, but I
-really enjoy learning about graphics programming in OpenGL and the GLSL shading language. Some hobbies of mine include playing soccer and disc golf!
-
+Domenic Hankle is a Computer Science student at ODU expected to graduate in the Fall of 2024.
+He currently work at an internship that specifically focuses on web app development for video surveillance software, but also
+really enjoys learning about graphics programming in OpenGL and the GLSL shading language. Some hobbies of his include playing soccer and disc golf!
 
 <br>
 <br>
