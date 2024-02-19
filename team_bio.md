@@ -50,9 +50,8 @@ He is also very interested in Linux.
 <img src="DrewRockmore.png" style="width: 150px;">
 
 
-Hi, my name is Drew Rockmore, I am currently a full time student at Old dominion University studying Computer Science. 
-I served the navy for six years as a AEGIS computer networking technician and currently work part time as web developer. 
-I enjoy being outside and exploring everything that Virginia has to offer. 
+Drew Rockmore is a full time computer science student at Old dominion University studying. 
+He served in the navy for six years as a AEGIS computer networking technician and currently works part time as web developer. 
 
 
 <br>
