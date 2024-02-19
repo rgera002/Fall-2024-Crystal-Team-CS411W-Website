@@ -63,9 +63,9 @@ I enjoy being outside and exploring everything that Virginia has to offer.
 
 <img src="SeanAllgaier.jpg" style="width: 150px;">
 
-Hello there, my name is Sean Allgaier! I am currently a full time student at Old Dominion University expecting to graduate in the Fall of 2024.
-I am a master cook at Waffle House and in the process of designing a mobile app that will be used to help train new employees. 
-I am passionate about building and designing different kinds of calculators with C++ to make certain aspects of life less tedious. 
+Sean Allgaier is a full time student at Old Dominion University expecting to graduate in the Fall of 2024.
+He is a master cook at Waffle House and in the process of designing a mobile app that will be used to help train new employees. 
+One of his bigger hobbies is that he likes to use C++ to build and design different kinds of calculators that are used to make certain aspects of life less tedious. 
  
 
 <br>
