@@ -37,7 +37,7 @@ really enjoys learning about graphics programming in OpenGL and the GLSL shading
 <img src="EthanHancock.jpg" style="width: 150px;">
 
 
-Ethan Hancock a Computer Science student at ODU.
+Ethan Hancock is a Computer Science student at ODU.
 He is passionate about programming, especially in C++, and has even published his own C++ library!
 He is also very interested in Linux.
 
