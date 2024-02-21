@@ -1,11 +1,11 @@
 # Members
 - Robert Geraghty
-- Ethan Hancock
-- Sean Allgaier
 - Dom Hankle
+- Ethan Hancock
 - Drew Rockmore
-- Adam Adam
+- Sean Allgaier
 - Abigail Eagan
+- Adam Adam
 
 
 <br>
