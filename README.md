@@ -18,7 +18,7 @@
 
 
 # Project
-This project is meant to assist end users with selecting the appropriate software for a particular purpose. The program is tentatively named "Softwhere"
+This project is meant to assist end users with selecting the appropriate software for a particular purpose. The program is tentatively named "SoftWhere"
 
 <br>
 <br>
