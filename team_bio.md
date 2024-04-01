@@ -34,7 +34,7 @@ really enjoys learning about graphics programming in OpenGL and the GLSL shading
 <br>
 <br>
 
-<img src="assets/images/Bio/EthanHancock.jpg" style="width: 150px;">
+<img src="assets/images/Bio/Ethan_Hancock.jpeg" style="width: 150px;">
 
 
 Ethan Hancock is a Computer Science student at ODU.
