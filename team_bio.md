@@ -86,9 +86,9 @@ into creating custom apps to suit her unique interests and create an entirely pe
 
 <img src="assets/images/Bio/AdamAdam.jpg" style="width: 150px;">
 
-Hi there, I own my own company and attend ODU full-time to get a degree, so I'm actively involved in both entrepreneurship and academia.
-In addition to my career and academic goals, I enjoy playing basketball, football, and soccer.
-My goal in this class is to learn how I aim to address the challenges present in business environments by developing a technology-based project.
+Adam Adam who runs their business while also pursuing a full time degree at ODU they are deeply committed
+to both entrepreneurship and education. Their commitment to professional development shines through as they juggle the responsibilities of managing a business alongside advancing their pursuits. Apart from their work and studies they find joy in playing basketball, football and soccer showcasing a rounded approach to life. 
+Their main focus in class currently is exploring solutions to tackle challenges, in business environments by working on a technology centered project.
 
 
 <br>
