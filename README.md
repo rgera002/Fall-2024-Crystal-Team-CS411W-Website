@@ -18,11 +18,12 @@
 
 
 # Project
-This project is meant to assist end users with selecting the appropriate software for a particular purpose. The program is tentatively named "SoftWhere"
+This project is meant to assist end users with selecting the appropriate software for a particular purpose. The program is named "SoftWhere".
 
 <br>
 <br>
 
+# Feasibility Presentation
 <iframe
 src="https://docs.google.com/presentation/d/e/2PACX-1vSaeoCPtZjtZ9KiRrefxHxsNMJFQV60elhntqqDzTHL3oQ_2MmSTsSll9bGQTXRbAE26xRX7lCCEf06/embed?start=true&loop=true&delayms=3000"
 frameborder="0"
@@ -33,6 +34,11 @@ mozallowfullscreen="true"
 webkitallowfullscreen="true">
 </iframe>
 
+<br>
+<br>
+
+# Design Presentation
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQHAQOmdewpQK-Byc6OzqNkcqxZnLjRMvstPZ1pFkpnJCTwnJN4CehnHMbi_blBwf_gio1JYNreka9d/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 <br>
 <br>
 
