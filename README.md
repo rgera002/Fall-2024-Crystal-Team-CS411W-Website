@@ -42,6 +42,15 @@ webkitallowfullscreen="true">
 <br>
 <br>
 
+# Lab 1
+
+<!-- Learned from: https://stackoverflow.com/questions/39777166/display-pdf-image-in-markdown -->
+<object data="Crystal_Group_Lab_1.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="Crystal_Group_Lab_1.pdf">
+    </embed>
+</object>
+
+
 # Assorted External Links
 - [Project Website](https://rgera002.github.io/Spring-2024-Crystal-Team-CS410/)
 - [Google Slides](https://docs.google.com/presentation/d/1V-B-J1mgXTi4ozUaZv1W4ieMAi7zzdfW2sztKeJuYuo/edit#slide=id.p)
