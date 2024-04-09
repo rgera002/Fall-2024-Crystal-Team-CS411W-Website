@@ -80,3 +80,45 @@ webkitallowfullscreen="true">
 
 <br>
 <br>
+<br>
+
+
+“Alternativeto - Crowdsourced Software Recommendations.” Alternativeto, alternativeto.net/. Accessed 21 Feb. 2024.
+
+<br>
+<br>
+
+Montti, Roger. “Ex-Googler Answers Why Google Search Is Getting Worse.” Search Engine Journal, 30 Nov. 2022, www.searchenginejournal.com/whygoogle-search-is-getting-worse/472681/.
+
+<br>
+<br>
+
+“Merge / Convert Multiple PDF Files into One PDF.” Stack Overflow, Jan. 2011, stackoverflow.com/questions/2507766/merge-convert-multiple-pdf-files-into-one-pdf.
+
+<br>
+<br>
+
+Clark, Steve. “Best Free PDF Readers in 2024.” TechRadar, TechRadar pro, 16 Nov. 2021, www.techradar.com/news/the-best-free-pdf-reader.
+
+<br>
+<br>
+
+Tyrsina, Radu. “How Many Apps Does Microsoft Store Have: Year-by-Year Guide.” Windows Report, Microsoft, 4 Oct. 2023, windowsreport.com/state-windows-8-apps-windows-store/.
+
+<br>
+<br>
+
+Koetsier, John. “Apple’s Mac App Store Adds Just 15 Apps per Month vs 15 per Minute for the IOS App Store.” Forbes, Forbes Magazine, 8 Nov. 2022, www.forbes.com/sites/johnkoetsier/2022/10/29/apples-mac-app-
+
+<br>
+<br>
+
+store-adds-just-15-apps-per-month-vs-15-per-minute-for-the-ios-app-store/?sh=4bcf711654df.
+
+<br>
+<br>
+
+“Packages.” Debian, Debian, www.debian.org/distrib/packages. Accessed 21 Feb. 2024.
+
+<br>
+<br>
