@@ -17,8 +17,13 @@
 <br>
 
 
-# Project
-This project is meant to assist end users with selecting the appropriate software for a particular purpose. The program is named "SoftWhere".
+# Project Elevator Pitch
+If you have a goal, and are looking for a piece of software to accomplish it, it can be difficult to find something that fits your needs, especially if you have specific needs. Search results are full of AI-generated top 10 lists, and old forum posts are often outdated. “SoftWhere” aims to fix that!
+
+<br>
+
+Search a large list of software solutions, filter your searches to narrow the search down, see user feedback about software! This will make finding the software you want so much easier!
+
 
 <br>
 <br>
