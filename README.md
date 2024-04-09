@@ -38,7 +38,7 @@ webkitallowfullscreen="true">
 <br>
 
 # Design Presentation
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQHAQOmdewpQK-Byc6OzqNkcqxZnLjRMvstPZ1pFkpnJCTwnJN4CehnHMbi_blBwf_gio1JYNreka9d/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQHAQOmdewpQK-Byc6OzqNkcqxZnLjRMvstPZ1pFkpnJCTwnJN4CehnHMbi_blBwf_gio1JYNreka9d/embed?start=true&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 <br>
 <br>
 
@@ -50,6 +50,8 @@ webkitallowfullscreen="true">
     </embed>
 </object>
 
+<br>
+<br>
 
 # Assorted External Links
 - [Project Website](https://rgera002.github.io/Spring-2024-Crystal-Team-CS410/)
