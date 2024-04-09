@@ -72,6 +72,14 @@ webkitallowfullscreen="true">
 <br>
 
 
+# Terminology Glossary
+- "SoftWhere" - The name of the proposed product.
+
+
+<br>
+<br>
+
+
 # Citations / Reference Material
 - [Stack Edit Markdown Examples](https://stackedit.io/app#){:target="_blank"}
 - [Github Pages Hacker Theme](https://pages-themes.github.io/hacker/){:target="_blank"}
