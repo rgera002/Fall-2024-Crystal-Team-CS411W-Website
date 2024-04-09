@@ -108,12 +108,7 @@ Tyrsina, Radu. “How Many Apps Does Microsoft Store Have: Year-by-Year Guide.�
 <br>
 <br>
 
-Koetsier, John. “Apple’s Mac App Store Adds Just 15 Apps per Month vs 15 per Minute for the IOS App Store.” Forbes, Forbes Magazine, 8 Nov. 2022, www.forbes.com/sites/johnkoetsier/2022/10/29/apples-mac-app-
-
-<br>
-<br>
-
-store-adds-just-15-apps-per-month-vs-15-per-minute-for-the-ios-app-store/?sh=4bcf711654df.
+Koetsier, John. “Apple’s Mac App Store Adds Just 15 Apps per Month vs 15 per Minute for the IOS App Store.” Forbes, Forbes Magazine, 8 Nov. 2022, www.forbes.com/sites/johnkoetsier/2022/10/29/apples-mac-app-store-adds-just-15-apps-per-month-vs-15-per-minute-for-the-ios-app-store/?sh=4bcf711654df.
 
 <br>
 <br>
