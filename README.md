@@ -10,7 +10,7 @@
 <br>
 
 # Site Navigation Links
-[Team Bio](team_bio.md)
+[Team Bio](team_bio.md){:target="_blank"}
 
 
 <br>
@@ -54,8 +54,8 @@ webkitallowfullscreen="true">
 <br>
 
 # Assorted External Links
-- [Project Website](https://rgera002.github.io/Spring-2024-Crystal-Team-CS410/)
-- [Google Slides](https://docs.google.com/presentation/d/1V-B-J1mgXTi4ozUaZv1W4ieMAi7zzdfW2sztKeJuYuo/edit#slide=id.p)
+- [Project Website](https://rgera002.github.io/Spring-2024-Crystal-Team-CS410/){:target="_blank"}
+- [Google Slides](https://docs.google.com/presentation/d/1V-B-J1mgXTi4ozUaZv1W4ieMAi7zzdfW2sztKeJuYuo/edit#slide=id.p){:target="_blank"}
 
 <br>
 <br>
@@ -68,10 +68,10 @@ webkitallowfullscreen="true">
 
 
 # Citations / Reference Material
-- [Stack Edit Markdown Examples](https://stackedit.io/app#)
-- [Github Pages Hacker Theme](https://pages-themes.github.io/hacker/)
-- [ODU Main Website](https://www.odu.edu/)
-- [ODU Computer Science Website](https://www.odu.edu/computer-science)
+- [Stack Edit Markdown Examples](https://stackedit.io/app#){:target="_blank"}
+- [Github Pages Hacker Theme](https://pages-themes.github.io/hacker/){:target="_blank"}
+- [ODU Main Website](https://www.odu.edu/){:target="_blank"}
+- [ODU Computer Science Website](https://www.odu.edu/computer-science){:target="_blank"}
 
 <br>
 <br>
