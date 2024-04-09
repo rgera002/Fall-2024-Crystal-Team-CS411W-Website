@@ -59,8 +59,7 @@ webkitallowfullscreen="true">
 <br>
 
 # Files
-- Placeholder 1
-- Placeholder 2
+- Placeholder
 
 <br>
 <br>
@@ -69,6 +68,8 @@ webkitallowfullscreen="true">
 # Citations / Reference Material
 - [Stack Edit Markdown Examples](https://stackedit.io/app#)
 - [Github Pages Hacker Theme](https://pages-themes.github.io/hacker/)
+- [ODU Main Website](https://www.odu.edu/)
+- [ODU Computer Science Website](https://www.odu.edu/computer-science)
 
 <br>
 <br>
