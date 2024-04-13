@@ -66,7 +66,8 @@ webkitallowfullscreen="true">
 <br>
 
 # Files
-- Placeholder
+- [Feasibility Presentation](./Crystal_Feasibility_Presentation.pdf)
+- [Design Presentation](./Crystal_Design_Presentation.pdf)
 
 <br>
 <br>
