@@ -59,7 +59,7 @@ webkitallowfullscreen="true">
 <br>
 
 # Assorted External Links
-- [Project Website](https://rgera002.github.io/Spring-2024-Crystal-Team-CS410/){:target="_blank"}
+- [Project Website](https://rgera002.github.io/Fall-2024-Crystal-Team-CS411W-Website/){:target="_blank"}
 - [Google Slides](https://docs.google.com/presentation/d/1V-B-J1mgXTi4ozUaZv1W4ieMAi7zzdfW2sztKeJuYuo/edit#slide=id.p){:target="_blank"}
 
 <br>
