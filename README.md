@@ -1,8 +1,8 @@
 # SoftWhere
 
 # Crystal Team
-- ODU CS 410
-- Spring 2024
+- ODU CS 411W
+- Fall 2024
 - Crystal Team
 
 
