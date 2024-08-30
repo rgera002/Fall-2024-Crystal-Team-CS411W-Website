@@ -97,6 +97,16 @@ Their main focus in class currently is exploring solutions to tackle challenges,
 <br>
 <br>
 
+<img src="assets/images/Bio/SolomonAnteneh.jpg" style="width: 150px;">
+
+Solomon Anteneh is a Computer Science student at ODU. He is also a Mechanical/Marine Engineer and currently working as a Service Engineer. 
+He enjoy running and being oudoors.
+
+
+<br>
+<br>
+<br>
+<br>
 [Return To Main Page](README.md){:target="_blank"}
 
 <br>
