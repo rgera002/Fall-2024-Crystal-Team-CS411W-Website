@@ -6,6 +6,7 @@
 - Sean Allgaier
 - Abigail Eagan
 - Adam Adam
+- Solomon Anteneh
 
 
 <br>
