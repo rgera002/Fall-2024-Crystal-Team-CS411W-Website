@@ -47,13 +47,19 @@ webkitallowfullscreen="true">
 <br>
 <br>
 
-# Lab 1
+# Lab 1 - Latest Revision
 
 <!-- Learned from: https://stackoverflow.com/questions/39777166/display-pdf-image-in-markdown -->
 <object data="Crystal_Group_Lab_1.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="Crystal_Group_Lab_1.pdf">
     </embed>
 </object>
+
+<br>
+<br>
+
+# Lab 1 - Previous Revision (Placeholder)
+- Will post previous revision(s) of the group lab 1 here when there are some.
 
 <br>
 <br>
